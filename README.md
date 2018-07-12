@@ -12,7 +12,7 @@ Requires a google maps api key at https://developers.google.com/console with the
 - Time Zone API
 
 ## Data
-Defined in locations.yml, with the format: [["name", "postal address"], ....]
+Defined in addresses.yml, with the format: [["name", "postal address"], ....]
 
 ## Configuration
 Requires an api key specificed in configuration.ini
